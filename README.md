@@ -1,5 +1,5 @@
 # ingWeb
 
-#Trabajo en Clase --> rama Practica01
+#Trabajo en Clase --> branch Practica01
 
 Accel Manuel Loarte Aguilar
