@@ -1,1 +1,1 @@
-alert("Biembenidos")
+alert("Practica 01")
